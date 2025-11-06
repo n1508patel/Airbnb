@@ -1,0 +1,133 @@
+.booking-page {
+  text-align: center;
+  padding: 40px;
+  background: linear-gradient(135deg, #eef6ff, #f8faff);
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+}
+
+.booking-card {
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  padding: 25px;
+  max-width: 550px;
+  margin: 40px auto;
+  text-align: left;
+}
+
+.booking-card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+.location {
+  color: #777;
+  font-size: 15px;
+}
+
+.rating {
+  font-size: 16px;
+  color: #ffb400;
+  margin-bottom: 10px;
+}
+
+.details p {
+  margin: 4px 0;
+  font-size: 15px;
+}
+
+.summary {
+  background: #f4f8ff;
+  border-radius: 10px;
+  padding: 10px 15px;
+  margin: 10px 0 20px;
+}
+
+.payment-options label {
+  display: block;
+  margin: 8px 0;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.confirm-btn {
+  background: #28a745;
+  color: white;
+  border: none;
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.confirm-btn:hover {
+  background: #218838;
+}
+
+.back-home-btn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.back-home-btn:hover {
+  background: #0056b3;
+}
+
+.related-title {
+  margin-top: 40px;
+  font-size: 26px;
+  color: #222;
+}
+
+.related-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+
+.related-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  width: 250px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.related-card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.related-card h4 {
+  font-size: 18px;
+  margin: 10px 0 5px;
+}
+
+.related-card button {
+  background: #ff385c;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.related-card button:hover {
+  background: #e91e63;
+}
