@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Airbnb/static/css/main.f285c753.css",
-    "main.js": "/Airbnb/static/js/main.5b1ae07d.js",
+    "main.css": "/Airbnb/static/css/main.6056d767.css",
+    "main.js": "/Airbnb/static/js/main.ebe0fbba.js",
     "index.html": "/Airbnb/index.html",
-    "main.f285c753.css.map": "/Airbnb/static/css/main.f285c753.css.map",
-    "main.5b1ae07d.js.map": "/Airbnb/static/js/main.5b1ae07d.js.map"
+    "main.6056d767.css.map": "/Airbnb/static/css/main.6056d767.css.map",
+    "main.ebe0fbba.js.map": "/Airbnb/static/js/main.ebe0fbba.js.map"
   },
   "entrypoints": [
-    "static/css/main.f285c753.css",
-    "static/js/main.5b1ae07d.js"
+    "static/css/main.6056d767.css",
+    "static/js/main.ebe0fbba.js"
   ]
 }
